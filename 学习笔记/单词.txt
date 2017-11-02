@@ -13,7 +13,9 @@ C#:
 12.binary	二进制的
 13.partial	部分（用于修饰部分类）
 14.Directory	目录
-15.Process      
+15.Process      处理
+16.stylesheet	样式调用
+17.decoration	装饰
 
 HTML:
 1.required 	必须的
