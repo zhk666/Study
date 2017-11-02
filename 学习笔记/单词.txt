@@ -1,0 +1,27 @@
+C#:
+1.convert 	使....转变 C#专用转换类
+2.region  	地区，区域
+3.const	 	常数
+4.struct 	结构
+5.sort   	分类(数组升序排列)
+6.reverse	反转，使颠倒(数组顺序颠倒)
+7.combine	使。。。结合
+8.dictionary	字典
+9.assess	评估，估价
+10.virtual  	虚拟的
+11.abstract	抽象的
+12.binary	二进制的
+13.partial	部分（用于修饰部分类）
+14.Directory	目录
+15.Process      
+
+HTML:
+1.required 	必须的
+2.draggable	可拖动的
+3.spellcheck	拼写检查
+4.abbr		简称
+5.coord		坐标
+6.loop		循环
+7.muted		静音
+
+
